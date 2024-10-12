@@ -6,8 +6,7 @@ Welcome to the Tick-Tack-Toe JS game! 🎮 This is a simple implementation of th
 
 📋 Features
 
-	•	Single Player: Play against the computer with basic AI.
-	•	Two Player: Challenge your friends in local multiplayer mode.
+	•	Two Player: Challenge your friends in local multiplayer mode
 	•	Responsive Design: Works on both desktop and mobile devices.
 
 🚀 Getting Started
@@ -35,21 +34,6 @@ cd tick-tack-toe-js
 
 open index.html
 
-
-
-Alternatively
-
-You can also play the game online if it’s deployed.
-
-📂 Project Structure
-
-tick-tack-toe-js/
-├── index.html        # Main HTML file
-├── css/
-│   └── style.css     # CSS for styling
-├── js/
-│   └── app.js        # Main game logic
-└── README.md         # Project documentation
 
 🤝 Contributing
 
